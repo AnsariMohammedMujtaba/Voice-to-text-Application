@@ -16,14 +16,7 @@ This is a desktop-based speech recognition application built using Python's Tkin
 
 ## Installation
 
-### Prerequisites
-
-- Python 3.x installed on your machine.
-- `pip` (Python package installer).
-
-### Setup
-
-1. **Clone the repository:**
+**Clone the repository:**
 
    ```bash
    git clone https://github.com/yourusername/speech-recognition-tkinter.git
